@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Forgound X2
+    uniqueID: 108025599
+    locked: 0
+  - name: Forground
+    uniqueID: 1178416549
+    locked: 0
   - name: Background
     uniqueID: 1688538935
     locked: 0
