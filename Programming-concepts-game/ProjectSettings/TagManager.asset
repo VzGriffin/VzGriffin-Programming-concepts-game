@@ -52,6 +52,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Oher
+    uniqueID: 2522120887
+    locked: 0
   - name: Terrain
     uniqueID: 517256973
+    locked: 0
+  - name: Player
+    uniqueID: 2332728115
+    locked: 0
+  - name: Othrer Frount
+    uniqueID: 1501178443
     locked: 0
